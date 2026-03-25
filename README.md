@@ -12,7 +12,7 @@ We looked at the duration and rankings from audience and IMDb experts to answer 
 Most films fall between 90 and 150 minutes, with a peak around 110–130 minutes, and we found no strong correlation, meaning that the movie length does not affect a movie’s rank.
 
 For the second question, we used both ranking types and the number of votes, which together indicated the movie's popularity in our context. 
-!(My.plot)[Average rating vs amount of votes.png]
+!imagess/Average rating vs amount of votes.png
 We observed a light positive correlation, meaning that more popular movies tend to rank higher.
 
 Finally, the third question was answered by examining the overall distribution of genres and how the top 5 genres changed over time.
