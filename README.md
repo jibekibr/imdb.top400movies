@@ -7,7 +7,7 @@ For the PHY 231 at Agnes Scott College, my teammates and I looked at IMDb Top 50
   3. What genre shows up the most? Has this changed over time?
 
 We looked at the duration and rankings from audience and IMDb experts to answer the first question and examine the duration distribution. Here is our plot:
-![imagess](averageratingvsduration.png)
+![My.plot](averageratingvsduration.png)
 ![My.plot](Distribution of Movie Runtime.png)
 Most films fall between 90 and 150 minutes, with a peak around 110–130 minutes, and we found no strong correlation, meaning that the movie length does not affect a movie’s rank.
 
