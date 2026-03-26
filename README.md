@@ -2,7 +2,7 @@
 Analysis of the IMDb Top 400 Movies dataset from Kaggle.
 
 Hello! I am Jibek Ibraeva, and my teammates and I looked at IMDb Top 5000 Movies (only worked with Top 400) for the PHY 231 Midterm at Agnes Scott College. 
-We answer the following questions to analyze our data:
+We answered the following questions to analyze our data:
   1. Does a movie’s length affect its rank/rating? Do longer movies tend to score better, or is shorter and tighter the way to go?
   2. Is there a relationship between the number of votes (popularity) and rating? Do "popular" movies actually rate higher, or do smaller films sometimes score better?
   3. What genre shows up the most? Has this changed over time?
